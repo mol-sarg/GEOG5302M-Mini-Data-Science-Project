@@ -1,4 +1,4 @@
-# GEOG5302M-Data-Science-Project
+# GEOG5302M-Mini-Data-Science-Project
 # Understanding Greenhouse Gas Trends: A Temporal Analysis of UK Emissions (2005–2022)
 
 This project conducts a temporal analysis of greenhouse gas (GHG) emissions in the United Kingdom from 2005 to 2022, with a particular focus on the impact of COVID-19. Using open government data, it applies a range of time-series techniques to examine historical patterns, identify significant disruptions, and evaluate the UK's long-term progress toward climate goals.
